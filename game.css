@@ -1,0 +1,26 @@
+.game {
+  position: relative;
+  background-color: cornflowerblue;
+  width: 500px;
+  height: 500px;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 23, 128);
+  padding: 10px;
+}
+.gameDetails {
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(22, 33, 196);
+  border-radius: 30px;
+  padding: 10px;
+}
+.work{
+  position: absolute;
+  background: red;
+  border-radius: 50%;
+  height: 18px;
+  width: 18px;
+  
+
+}
